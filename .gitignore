@@ -1,0 +1,7 @@
+root/node_modules
+apps/app1/node_modules
+apps/app1/dist
+apps/app2/node_modules
+apps/app2/dist
+apps/navbar/node_modules
+apps/navbar/dist
